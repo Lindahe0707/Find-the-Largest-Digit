@@ -47,6 +47,13 @@ All architectures were tested through batch training of two hundred samples at a
 
 ![cnn](cnn.png)
 
+ Other Contributers:
+
+[Olivier] (https://github.com/oliviersm199[github handle])
+
+[Rotsy]
+
+
 
 
 
