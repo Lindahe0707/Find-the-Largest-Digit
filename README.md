@@ -8,6 +8,13 @@ The validation accuracy of the logistic regression model was around 70%.The vali
 
 # Data Preprocessing
 
+A filter was applied which transformed the background of the image to be black and for the digits to be white. Then using a function from the skimage library, it was possible
+to label each white region in the image and extract each digit separately.
+
+Then it was noticed that a good proxy for the scaling factor of each digit was the largest bounding square and not the largest bounding rectangle.
+
+The steps taken in the preprocessing step outputted an image displaying a single digit in a 32x32 pixel. This 32x32 image was then used as input to the various classifiers.
+This effectively became a similar classifying problem - the common MNIST classifying problem.
 
 # Methodology
 
