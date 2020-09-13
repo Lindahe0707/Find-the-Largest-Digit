@@ -34,7 +34,7 @@ The table below depicts how the feed forward neural network performs with differ
 
 - Convolutional Neural Network
 
-All architectures were tested through batch training of two hundred samples at a time for twenty epochs. 
+All architectures were tested through batch training of two hundred samples at a time for 20 epochs. 
 
 
 
