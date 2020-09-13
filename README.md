@@ -47,11 +47,21 @@ All architectures were tested through batch training of two hundred samples at a
 
 ![cnn](cnn.png)
 
- Other Contributers:
+#### Contributers and Main Task:
 
-[Olivier] (https://github.com/oliviersm199[github handle])
+[Olivier] (https://github.com/oliviersm199[github handle]): 
+
+- Defined and developed the initial preprocessing steps.
+- Defined, researched, developed and coded the convolutional neural networks in Keras.
 
 [Rotsy]
+
+- Performed hyperparameter tuning on part 2: fully connected feed forward neural network
+
+[Lingwei He]
+
+- Improved the preprocessing steps.
+- Wrote feed forward neural network by hand.
 
 
 
