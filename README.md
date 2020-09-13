@@ -32,7 +32,11 @@ The logistic regression gives out a baseline linear model and result for further
 
 The table below depicts how the feed forward neural network performs with different values of the learning rate and the number of hidden neurons.
 
+![nn](nn.png)
+
 - Convolutional Neural Network
+
+![cnn](cnn.png)
 
 All architectures were tested through batch training of two hundred samples at a time for 20 epochs. 
 
